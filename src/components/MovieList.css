@@ -1,0 +1,23 @@
+/* MovieList.css */
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    background-color: #f9f9f9;
+    margin: 0.5em 0;
+    padding: 0.5em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  li:hover {
+    background-color: #efefef;
+  }
+  
+  h2 {
+    margin-top: 1em;
+  }
+  
